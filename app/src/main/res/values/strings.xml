@@ -3,12 +3,15 @@
     <string name="app_id">ca-app-pub-3940256099942544/6300978111</string>
     <string name="text_admob">Dial</string>
     <string name="manifest_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="html">
+
+
     <![CDATA[
  <h1>
    <a href="https://www.dial2.online/privacy.html"> Privacy Policy </a>
     </h1>
 
         ]]>
-
+</string >
 
 </resources>
